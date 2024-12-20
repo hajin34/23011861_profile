@@ -1,0 +1,46 @@
+
+
+
+#header {
+    background-color: antiquewhite;
+}
+
+#education {
+    background-color: antiquewhite;
+    border: 1px solid lightgoldenrodyellow;
+    border-style: dashed;
+}
+#PE {
+    background-color: lightblue;
+    border: 1px solid lightgoldenrodyellow;
+    border-style: dashed;
+}
+#TS {
+    background-color: lightgrey;
+    border: 1px solid lightgoldenrodyellow;
+    border-style: dashed;
+}
+p.title{
+    background-color: antiquewhite;
+    font-size: 20px; 
+    font-weight: bold; 
+}
+p.subtitle {
+    background-color: aquamarine;
+    font-size: 15px; 
+    font-weight: bold; 
+    margin: 0; 
+}
+p.written{
+    background-color: lightgoldenrodyellow;
+}
+p.contact {
+    font-size: 12px; 
+    font-weight: bold; 
+    margin: 0;
+}
+p.s {
+    padding-left: 20px; 
+    font-size: 11px; 
+    
+}
